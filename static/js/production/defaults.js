@@ -614,4 +614,4 @@ class ajax_query {
 	    loading.steps("submit");
 });*/
 
-//updated v.1.0.1
+//updated v.1.0.2
