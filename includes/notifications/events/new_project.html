@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="keywords" content="">
+        <title>New Project</title>
+    </head>
+	<body>
+		<div class="card card-reset flex-column">
+			<div class="card-header">
+				<h4 class="card-title">New Project</h4>
+			</div>
+			<div class="card-body text-center">
+				You are created a new project <a href="{{data.post.link}}">{{data.post.title}}</a>
+				Expertises : {{data.post.work_types|join(",")}}
+				<a href="{{data.post.link}}" class="btn btn-primary btn-extend mt-5">View Project</a>
+			</div>
+		</div>
+	</body>
+</html>
