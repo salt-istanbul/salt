@@ -1,0 +1,16 @@
+{
+  "name": "salt-istanbul/salt",
+  "description": "Wordpress files",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Tolga Koçak",
+      "email": "info@salthareket.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
