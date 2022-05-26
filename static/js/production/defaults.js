@@ -613,3 +613,5 @@ class ajax_query {
 	console.log(loading);
 	    loading.steps("submit");
 });*/
+
+//updated v.1.0.1
